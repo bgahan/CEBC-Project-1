@@ -182,7 +182,7 @@ var getHotels = function(searchInput) {
     method: 'GET',
     headers: {
       'X-RapidAPI-Host': 'hotels-com-provider.p.rapidapi.com',
-      'X-RapidAPI-Key': '52f4366238mshd8477a2bc7b94b6p19e76bjsn1cbe9e56c2c9'
+      'X-RapidAPI-Key': 'eac6a6b0d1msh0e70e7667eb21b4p118967jsn33a713fff747'
     }
   };
 
@@ -225,7 +225,7 @@ var getHotelImages = function (hotelId) {
         method: 'GET',
         headers: {
             'X-RapidAPI-Host': 'hotels-com-provider.p.rapidapi.com',
-            'X-RapidAPI-Key': '52f4366238mshd8477a2bc7b94b6p19e76bjsn1cbe9e56c2c9'
+            'X-RapidAPI-Key': 'eac6a6b0d1msh0e70e7667eb21b4p118967jsn33a713fff747'
         }
     };
 
